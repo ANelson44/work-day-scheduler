@@ -12,7 +12,7 @@ Follow the link to see the page! ==>
 
 Click in the text area of a given hour of the day. Input desired event and click the save button located on the right. This will save to local storage.  
 
-<!-- ![Home Screen](./Images/Home-Screen.jpg) -->
+![Work Day Scheduler](./Assets/Screenshot%20.jpg)
 
 ## Credits
 
