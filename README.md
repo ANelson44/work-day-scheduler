@@ -6,7 +6,7 @@ This is a work day scheduling tool. Starter code was given for this app. HTML an
 
 ## Installation
 
-Follow the link to see the page! ==> 
+Follow the link to see the page! ==> https://anelson44.github.io/work-day-scheduler/
 
 ## Usage
 
