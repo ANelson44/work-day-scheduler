@@ -3,6 +3,10 @@ body {
   font-size: 16px;
 }
 
+header {
+  background-color: deepskyblue;
+}
+
 textarea {
   background: transparent;
   border: none;
@@ -21,13 +25,13 @@ textarea {
 }
 
 .row {
-  border-top: 1px solid white;
+  border-top: 1px solid rgb(255, 255, 255);
 }
 
 .hour {
-  background-color: #ffffff;
+  background-color: rgb(158, 166, 179);
   color: #000000;
-  border-top: 1px dashed #000000;
+  border-top: 1px solid #000000;
 }
 
 .past {

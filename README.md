@@ -1,1 +1,22 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
+
+## Description
+
+This is a work day scheduling tool. Starter code was given for this app. HTML and JavaScript were updated/created to allow for text input and saving to local storage. DayJS also used to set time and add "past", "present", and "future" classes based on time of day. 
+
+## Installation
+
+Follow the link to see the page! ==> 
+
+## Usage
+
+Click in the text area of a given hour of the day. Input desired event and click the save button located on the right. This will save to local storage.  
+
+<!-- ![Home Screen](./Images/Home-Screen.jpg) -->
+
+## Credits
+
+https://jfisher396.github.io/workday-scheduler/ was referenced for some JavaScript code.
+
+## License
+N/A
